@@ -12,8 +12,8 @@ body{
 }
 .timeFace{
     text-align: center;
-    font-size: 10em;
-    width: auto;
+    font-size: 16vw;
+    width: 100%;
     height: 100%;
     margin: 10rem 0 10rem 0;
 }
