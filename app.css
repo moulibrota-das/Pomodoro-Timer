@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.timeFace{
+    text-align: center;
+    font-size: 10em;
+    width: auto;
+    height: 100%;
+    margin: 10rem 0 10rem 0;
+}
+button{
+    display: block;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border-color: white;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 2px;
+}
+
+.addTime{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
