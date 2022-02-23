@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    font-family: 'Roboto', sans-serif;
     color: white;
 }
 .container{
@@ -22,7 +23,7 @@ button{
     width: 100px;
     height: 50px;
     cursor: pointer;
-    border-color: white;
+    border-color: rgba(255, 255, 255, 0.541);
     background-color: black;
     color: white;
     border-style: solid;
